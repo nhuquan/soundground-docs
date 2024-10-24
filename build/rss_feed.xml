@@ -1,0 +1,23 @@
+<rss version="2.0">
+  <channel>
+    <title>SoundGround</title>
+    <description>Documentation for the SoundGround project.</description>
+    <link></link>
+    <language>en-us</language>
+    <pubDate>25 Oct 2024</pubDate>
+    <lastBuildDate>25 Oct 2024</lastBuildDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title>SoundGround Privacy Policy</title>
+      <link>//posts/privacy/</link>
+      <pubDate>2024-10-25</pubDate>
+      <guid>//posts/privacy/</guid>
+      <author>John Smith</author>
+    </item>
+    <item>
+      <title>SoundGound Privacy Policy</title>
+      <link>//</link>
+      <guid>//</guid>
+    </item>
+  </channel>
+</rss>
